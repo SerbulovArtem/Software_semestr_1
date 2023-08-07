@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "R79/vAolWTPykvxJswrnwp6f122p3hdHSfHg/JV/Euo5daduuShquPjjFPLNWR8AdfD4IlkKDh7UeokuZNKg4w==",
+  "success": true,
+  "projectFilePath": "E:\\Software_4_semester\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Артем\\.nuget\\packages\\hdf.pinvoke.1.10\\1.10.612\\hdf.pinvoke.1.10.1.10.612.nupkg.sha512",
+    "C:\\Users\\Артем\\.nuget\\packages\\hdf5-csharp\\1.17.0\\hdf5-csharp.1.17.0.nupkg.sha512",
+    "C:\\Users\\Артем\\.nuget\\packages\\purehdf\\1.0.0-alpha.25\\purehdf.1.0.0-alpha.25.nupkg.sha512",
+    "C:\\Users\\Артем\\.nuget\\packages\\system.resources.extensions\\7.0.0\\system.resources.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
